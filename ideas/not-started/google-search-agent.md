@@ -1,6 +1,7 @@
 # Google Search Agent Which Improves Your Search Performance
 
 **Status:** Not Started
+**Type:** Business
 **Created:** 2025-07-27
 **Rating:** 3/10
 

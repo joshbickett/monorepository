@@ -1,6 +1,7 @@
 # Phone Call Note Summary with ChatGPT
 
 **Status:** Not Started
+**Type:** Business
 **Created:** 2025-07-27
 
 ## Idea

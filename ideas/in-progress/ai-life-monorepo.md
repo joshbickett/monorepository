@@ -1,6 +1,7 @@
 # Create a Mono Repo of My Life Which an AI Agent Manages
 
 **Status:** In Progress
+**Type:** Research
 **Created:** 2025-07-27
 **Rating:** 9/10
 
