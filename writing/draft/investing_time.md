@@ -1,0 +1,1 @@
+I still believe the best place I can invest my time is on the accelerating curve of returns from compute. I have every reason to believe it will keep accelerating. Capturing even a 10^-20% of the output is huge
